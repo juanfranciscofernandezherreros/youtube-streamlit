@@ -2,34 +2,28 @@
 langchain
 langchain-openai
 langchain-community
-langgraph                     # StateGraph workflows (nivel_7)
-openai                        # Whisper transcription API (33_procesador_reuniones.py)
+langgraph                     # StateGraph workflows
+openai                        # Whisper transcription API
 streamlit
 python-dotenv
 
-# Document Loaders — nivel_4
-beautifulsoup4      # WebBaseLoader (11_read_from_website.py)
-pypdf               # PyPDFLoader  (12_read_pdf.py)
+# Document Loaders
+beautifulsoup4      # WebBaseLoader
+pypdf               # PyPDFLoader
 
-# Text Splitters y Embeddings — nivel_5
-langchain-text-splitters  # RecursiveCharacterTextSplitter (21_text_splitters_parte2.py)
-numpy                     # Similitud coseno con OpenAIEmbeddings (22_embeding_language.py)
+# Text Splitters y Embeddings
+langchain-text-splitters
+numpy
 
-# Retrievers — nivel_6
-faiss-cpu                 # FAISS vector store
-rank_bm25                 # BM25Retriever (27_ensemble_retriever.py)
-chromadb                  # ChromaDB vector store (helpdesk_system, dif_system)
+# Retrievers (Vector Stores)
+faiss-cpu
+rank_bm25
+chromadb
 
-# Chains — nivel_9 (dif_system)
-langchain-classic         # create_retrieval_chain / create_stuff_documents_chain
+# Proyectos integradores
+duckduckgo-search         # Agente IA
+yt-dlp>=2026.02.21        # Descarga de video (Motor principal)
+pytubefix                 # Descarga y gestión de YouTube (Alternativa estable)
 
-# Proyectos integradores — nivel_9
-duckduckgo-search         # Agente IA — búsqueda web
-yt-dlp>=2026.02.21           # YouTube Video Downloader (patched CVE)
-
-# Opcional — instalar solo si se usan los loaders correspondientes
-# pip install unstructured          # DirectoryLoader/UnstructuredHTMLLoader (13, 15)
-# pip install youtube-transcript-api # YoutubeLoader (14)
-# pip install selenium               # SeleniumURLLoader (17)
-# pip install gitpython              # GitLoader (18)
-# pip install langchain-google-community google-auth-oauthlib google-api-python-client  # GoogleDriveLoader (19)
+# Opcionales para Loaders específicos
+youtube-transcript-api    # Necesario para YoutubeLoader (transcripciones)
