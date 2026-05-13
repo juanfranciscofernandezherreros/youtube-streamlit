@@ -4,6 +4,19 @@ All notable changes merged to `master` are documented automatically.
 
 ## 2026-05-13
 
+### Create Procfile
+
+- **Author:** Juan Francisco Fernandez Herreros
+- **Commit:** [`0e4d71d`](https://github.com/juanfranciscofernandezherreros/youtube-streamlit/commit/0e4d71dca57209136ec06910363abc66e7706c73)
+
+**Changed files (1):**
+
+- 🟢 `Procfile`
+
+---
+
+## 2026-05-13
+
 ### Create config.toml
 
 - **Author:** Juan Francisco Fernandez Herreros
