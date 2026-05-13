@@ -27,3 +27,7 @@ pytubefix                 # Descarga y gestión de YouTube (Alternativa estable)
 
 # Opcionales para Loaders específicos
 youtube-transcript-api    # Necesario para YoutubeLoader (transcripciones)
+
+streamlit>=1.35.0
+pytubefix>=8.0.0
+yt-dlp>=2026.02.21
