@@ -4,6 +4,19 @@ All notable changes merged to `master` are documented automatically.
 
 ## 2026-05-14
 
+### Update requirements.txt
+
+- **Author:** Juan Francisco Fernandez Herreros
+- **Commit:** [`9211a7e`](https://github.com/juanfranciscofernandezherreros/youtube-streamlit/commit/9211a7e6bd48badbb6b41d3c184362da8eaf501d)
+
+**Changed files (1):**
+
+- 🟡 `requirements.txt`
+
+---
+
+## 2026-05-14
+
 ### Create LINKS.md
 
 - **Author:** Juan Francisco Fernandez Herreros
