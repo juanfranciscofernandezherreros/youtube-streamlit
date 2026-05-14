@@ -4,6 +4,19 @@ All notable changes merged to `master` are documented automatically.
 
 ## 2026-05-14
 
+### Create Dockerfile
+
+- **Author:** Juan Francisco Fernandez Herreros
+- **Commit:** [`7171c47`](https://github.com/juanfranciscofernandezherreros/youtube-streamlit/commit/7171c47f5c25c64f12425e88fdb48cd93e6ab8cb)
+
+**Changed files (1):**
+
+- 🟢 `Dockerfile`
+
+---
+
+## 2026-05-14
+
 ### Update requirements.txt
 
 - **Author:** Juan Francisco Fernandez Herreros
