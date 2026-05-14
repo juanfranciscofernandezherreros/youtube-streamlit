@@ -4,6 +4,20 @@ All notable changes merged to `master` are documented automatically.
 
 ## 2026-05-14
 
+### Update and rename config.toml to fly.toml
+
+- **Author:** Juan Francisco Fernandez Herreros
+- **Commit:** [`f2685d5`](https://github.com/juanfranciscofernandezherreros/youtube-streamlit/commit/f2685d572e65f9ba94ce8cd30dfa97181d692df2)
+
+**Changed files (2):**
+
+- 🔴 `config.toml`
+- 🟢 `fly.toml`
+
+---
+
+## 2026-05-14
+
 ### Create Dockerfile
 
 - **Author:** Juan Francisco Fernandez Herreros
