@@ -4,6 +4,19 @@ All notable changes merged to `master` are documented automatically.
 
 ## 2026-05-14
 
+### Create LINKS.md
+
+- **Author:** Juan Francisco Fernandez Herreros
+- **Commit:** [`dec0f76`](https://github.com/juanfranciscofernandezherreros/youtube-streamlit/commit/dec0f76f64dca4179afc2c659ea3fd8cc2f69ce0)
+
+**Changed files (1):**
+
+- 🟢 `LINKS.md`
+
+---
+
+## 2026-05-14
+
 ### Update README.md
 
 - **Author:** Juan Francisco Fernandez Herreros
